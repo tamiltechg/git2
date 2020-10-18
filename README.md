@@ -1,2 +1,2 @@
-# git2
-Demo cloning a remote repo to local
+# RIP SPB Sir!
+Ungal kuraluku nangal adimai
